@@ -1,0 +1,3 @@
+About Dataset
+
+The files contain one message per line. Each line is composed by two columns: v1 contains the label (ham or spam) and v2 contains the raw text.
