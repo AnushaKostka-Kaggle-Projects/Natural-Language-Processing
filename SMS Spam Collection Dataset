@@ -1,4 +1,4 @@
-* About Dataset
+*About Dataset
 
 Context:
 
@@ -16,8 +16,8 @@ This corpus has been collected from free or free for research sources at the Int
 -> Finally, we have incorporated the SMS Spam Corpus v.0.1 Big. It has 1,002 SMS ham messages and 322 spam messages and it is public available at: [Web Link]. This corpus has been used in the following academic researches:
 
 
-* Original Dataset:
+*Original Dataset:
  - https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
-* Inspiration
+*Inspiration
  - Can you use this dataset to build a prediction model that will accurately classify which texts are spam?
